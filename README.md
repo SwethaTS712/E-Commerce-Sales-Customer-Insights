@@ -1,5 +1,5 @@
 # E-Commerce Sales & Customer Insights Dashboard
-![Dashboard Preview](Dashboard-Preview.png)
+![Dashboard Preview](Dashboard-Preview.png.png)
 
 ## 1. Project Overview
 An interactive E-Commerce Sales and Customer Insights Dashboard developed using Excel, PostgreSQL and Power BI. This project analyzes online retail transactions to understand sales performance, customer purchasing behaviour, product performance and customer segmentation.
